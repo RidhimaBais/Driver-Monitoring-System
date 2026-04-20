@@ -22,6 +22,8 @@ It analyzes the driver's eye movements through a webcam and triggers an alert so
 - OpenCV
 - NumPy
 - Jupyter Notebook
+- pygame
+- Mediapipe
 
 ---
 
