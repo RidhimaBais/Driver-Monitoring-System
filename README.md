@@ -58,6 +58,11 @@ It analyzes the driver's eye movements through a webcam and triggers an alert so
 
 ---
 
+## 🎥 Project Demo
+👉 [Click here to watch the demo](https://drive.google.com/file/d/1qhaI66TEVhs5QXnBnIwNB3LtJJj6PSk-/view?usp=sharing)
+
+---
+
 ## 🎯 Future Improvements
 - Add deep learning-based detection (CNN)
 - Improve accuracy in low light conditions
